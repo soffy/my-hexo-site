@@ -24,6 +24,6 @@
 "hexo-theme-landscape": "^1.0.0",
 "micromatch": "^4.0.0",
 "lru-cache": "^7.0.0",
-"glob": "^9.0.0"
+"glob": "^10.4.1"
 }
 }
