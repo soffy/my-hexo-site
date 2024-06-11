@@ -23,7 +23,7 @@
 "hexo-server": "^3.0.0",
 "hexo-theme-landscape": "^1.0.0",
 "micromatch": "^4.0.0",
-"lru-cache": "^7.0.0",
+"lru-cache": "^10.2.2",
 "glob": "^9.0.0"
 }
 }
